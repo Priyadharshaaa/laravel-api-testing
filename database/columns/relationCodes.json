@@ -1,0 +1,110 @@
+{
+    "response_code": [
+        "AccessLogger"
+    ],
+    "city_code": [
+        "City",
+        "District"
+    ],
+    "country_code": [
+        "City",
+        "Country"
+    ],
+    "num_code": [
+        "Country"
+    ],
+    "phone_code": [
+        "Country"
+    ],
+    "crypt_code": [
+        "Crypt"
+    ],
+    "currency_code": [
+        "Currency"
+    ],
+    "customer_code": [
+        "Customer",
+        "CustomerAge",
+        "CustomerContact",
+        "CustomerGender",
+        "CustomerImage"
+    ],
+    "customer_age_code": [
+        "CustomerAge"
+    ],
+    "customer_contact_code": [
+        "CustomerContact"
+    ],
+    "customer_gender_code": [
+        "CustomerGender"
+    ],
+    "gender_code": [
+        "CustomerGender",
+        "Gender"
+    ],
+    "customer_image_code": [
+        "CustomerImage"
+    ],
+    "district_code": [
+        "District"
+    ],
+    "dummy_code": [
+        "Dummy"
+    ],
+    "excel_code": [
+        "Excel"
+    ],
+    "front_lang_code": [
+        "FrontLang"
+    ],
+    "language_code": [
+        "FrontLang",
+        "Language",
+        "Localization"
+    ],
+    "localization_code": [
+        "Localization"
+    ],
+    "localized_code": [
+        "Localization"
+    ],
+    "password_change_code": [
+        "PasswordChange"
+    ],
+    "permission_code": [
+        "Permission"
+    ],
+    "registration_code": [
+        "Registration"
+    ],
+    "role_code": [
+        "Role"
+    ],
+    "role_app_code": [
+        "Role"
+    ],
+    "super_admin_code": [
+        "SuperAdmin"
+    ],
+    "user_code": [
+        "SuperAdmin",
+        "UserActivation",
+        "UserPassword",
+        "UserPhoto"
+    ],
+    "table_change_code": [
+        "TableChange"
+    ],
+    "timezone_code": [
+        "Timezone"
+    ],
+    "user_activation_code": [
+        "UserActivation"
+    ],
+    "user_password_code": [
+        "UserPassword"
+    ],
+    "user_photo_code": [
+        "UserPhoto"
+    ]
+}

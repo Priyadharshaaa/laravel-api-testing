@@ -1,0 +1,141 @@
+{
+    "ApiKey": [
+        "Localization"
+    ],
+    "Localization": [
+        "ApiKey",
+        "City",
+        "Country",
+        "Crypt",
+        "Currency",
+        "Customer",
+        "CustomerAge",
+        "CustomerContact",
+        "CustomerGender",
+        "CustomerImage",
+        "District",
+        "Dummy",
+        "Excel",
+        "FrontLang",
+        "Gender",
+        "Language",
+        "Localization",
+        "PasswordChange",
+        "Permission",
+        "Registration",
+        "Role",
+        "SuperAdmin",
+        "TableChange",
+        "Timezone",
+        "User",
+        "UserActivation",
+        "UserPassword",
+        "UserPhoto"
+    ],
+    "City": [
+        "District",
+        "Country",
+        "Localization"
+    ],
+    "District": [
+        "City",
+        "Country",
+        "Localization"
+    ],
+    "Country": [
+        "City",
+        "District",
+        "Localization"
+    ],
+    "Crypt": [
+        "Localization"
+    ],
+    "Currency": [
+        "Localization"
+    ],
+    "Customer": [
+        "CustomerAge",
+        "CustomerContact",
+        "CustomerGender",
+        "CustomerImage",
+        "Localization"
+    ],
+    "CustomerAge": [
+        "Customer",
+        "Localization"
+    ],
+    "CustomerContact": [
+        "Customer",
+        "Localization"
+    ],
+    "CustomerGender": [
+        "Customer",
+        "Gender",
+        "Localization"
+    ],
+    "CustomerImage": [
+        "Customer",
+        "Localization"
+    ],
+    "Gender": [
+        "CustomerGender",
+        "Localization"
+    ],
+    "Dummy": [
+        "Localization"
+    ],
+    "Excel": [
+        "Localization"
+    ],
+    "FrontLang": [
+        "Language",
+        "Localization"
+    ],
+    "Language": [
+        "FrontLang",
+        "Localization"
+    ],
+    "PasswordChange": [
+        "Localization"
+    ],
+    "Permission": [
+        "Localization"
+    ],
+    "Registration": [
+        "Localization"
+    ],
+    "Role": [
+        "Localization",
+        "User"
+    ],
+    "SuperAdmin": [
+        "User",
+        "Localization"
+    ],
+    "User": [
+        "SuperAdmin",
+        "UserActivation",
+        "UserPassword",
+        "UserPhoto",
+        "Role",
+        "Localization"
+    ],
+    "TableChange": [
+        "Localization"
+    ],
+    "Timezone": [
+        "Localization"
+    ],
+    "UserActivation": [
+        "User",
+        "Localization"
+    ],
+    "UserPassword": [
+        "User",
+        "Localization"
+    ],
+    "UserPhoto": [
+        "User",
+        "Localization"
+    ]
+}

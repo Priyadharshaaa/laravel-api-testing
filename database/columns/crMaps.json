@@ -1,0 +1,186 @@
+{
+    "registration.registration.get": {
+        "class": "App\\Client\\Registration\\Registration\\Get\\GetClient",
+        "model": "registration"
+    },
+    "registration.registration.create": {
+        "class": "App\\Client\\Registration\\Registration\\Create\\CreateClient",
+        "model": "registration"
+    },
+    "registration.registration.update": {
+        "class": "App\\Client\\Registration\\Registration\\Update\\UpdateClient",
+        "model": "registration"
+    },
+    "user.user.create": {
+        "class": "App\\Client\\User\\User\\Create\\CreateClient",
+        "model": "user"
+    },
+    "auth.verifying.post": {
+        "class": "App\\Client\\Auth\\Verifying\\Post\\PostClient",
+        "model": "user"
+    },
+    "auth.verifying.create": {
+        "class": "App\\Client\\Auth\\Verifying\\Create\\CreateClient",
+        "model": "user"
+    },
+    "support.excel.get": {
+        "class": "App\\Client\\Support\\Excel\\Get\\GetClient",
+        "model": "excel"
+    },
+    "support.excel.create": {
+        "class": "App\\Client\\Support\\Excel\\Create\\CreateClient",
+        "model": "excel"
+    },
+    "support.excel.update": {
+        "class": "App\\Client\\Support\\Excel\\Update\\UpdateClient",
+        "model": "excel"
+    },
+    "currencies.currencies.create": {
+        "class": "App\\Client\\Currencies\\Currencies\\Create\\CreateClient",
+        "model": "currency"
+    },
+    "customer.profiles.get": {
+        "class": "App\\Client\\Customer\\Profiles\\Get\\GetClient",
+        "model": "customer"
+    },
+    "customer.profiles.create": {
+        "class": "App\\Client\\Customer\\Profiles\\Create\\CreateClient",
+        "model": "customer"
+    },
+    "customer.profiles.update": {
+        "class": "App\\Client\\Customer\\Profiles\\Update\\UpdateClient",
+        "model": "customer"
+    },
+    "user.activations.get": {
+        "class": "App\\Client\\User\\Activations\\Get\\GetClient",
+        "model": "userActivation"
+    },
+    "user.activations.create": {
+        "class": "App\\Client\\User\\Activations\\Create\\CreateClient",
+        "model": "userActivation"
+    },
+    "user.activations.update": {
+        "class": "App\\Client\\User\\Activations\\Update\\UpdateClient",
+        "model": "userActivation"
+    },
+    "customer.genders.get": {
+        "class": "App\\Client\\Customer\\Genders\\Get\\GetClient",
+        "model": "customerGender"
+    },
+    "customer.genders.create": {
+        "class": "App\\Client\\Customer\\Genders\\Create\\CreateClient",
+        "model": "customerGender"
+    },
+    "customer.genders.update": {
+        "class": "App\\Client\\Customer\\Genders\\Update\\UpdateClient",
+        "model": "customerGender"
+    },
+    "customer.ages.get": {
+        "class": "App\\Client\\Customer\\Ages\\Get\\GetClient",
+        "model": "customerAge"
+    },
+    "customer.ages.create": {
+        "class": "App\\Client\\Customer\\Ages\\Create\\CreateClient",
+        "model": "customerAge"
+    },
+    "customer.ages.update": {
+        "class": "App\\Client\\Customer\\Ages\\Update\\UpdateClient",
+        "model": "customerAge"
+    },
+    "customer.images.get": {
+        "class": "App\\Client\\Customer\\Images\\Get\\GetClient",
+        "model": "customerImage"
+    },
+    "customer.images.create": {
+        "class": "App\\Client\\Customer\\Images\\Create\\CreateClient",
+        "model": "customerImage"
+    },
+    "customer.images.update": {
+        "class": "App\\Client\\Customer\\Images\\Update\\UpdateClient",
+        "model": "customerImage"
+    },
+    "customer.contacts.get": {
+        "class": "App\\Client\\Customer\\Contacts\\Get\\GetClient",
+        "model": "customerContact"
+    },
+    "customer.contacts.create": {
+        "class": "App\\Client\\Customer\\Contacts\\Create\\CreateClient",
+        "model": "customerContact"
+    },
+    "customer.contacts.update": {
+        "class": "App\\Client\\Customer\\Contacts\\Update\\UpdateClient",
+        "model": "customerContact"
+    },
+    "password.changes.get": {
+        "class": "App\\Client\\Password\\Changes\\Get\\GetClient",
+        "model": "passwordChange"
+    },
+    "password.changes.create": {
+        "class": "App\\Client\\Password\\Changes\\Create\\CreateClient",
+        "model": "passwordChange"
+    },
+    "password.changes.update": {
+        "class": "App\\Client\\Password\\Changes\\Update\\UpdateClient",
+        "model": "passwordChange"
+    },
+    "definition.genders.get": {
+        "class": "App\\Client\\Definition\\Genders\\Get\\GetClient",
+        "model": "gender"
+    },
+    "definition.genders.create": {
+        "class": "App\\Client\\Definition\\Genders\\Create\\CreateClient",
+        "model": "gender"
+    },
+    "definition.genders.update": {
+        "class": "App\\Client\\Definition\\Genders\\Update\\UpdateClient",
+        "model": "gender"
+    },
+    "localizations.front.get": {
+        "class": "App\\Client\\Localizations\\Front\\Get\\GetClient",
+        "model": "frontLang"
+    },
+    "localizations.front.create": {
+        "class": "App\\Client\\Localizations\\Front\\Create\\CreateClient",
+        "model": "frontLang"
+    },
+    "localizations.front.update": {
+        "class": "App\\Client\\Localizations\\Front\\Update\\UpdateClient",
+        "model": "frontLang"
+    },
+    "support.crypt.get": {
+        "class": "App\\Client\\Support\\Crypt\\Get\\GetClient",
+        "model": "crypt"
+    },
+    "support.crypt.create": {
+        "class": "App\\Client\\Support\\Crypt\\Create\\CreateClient",
+        "model": "crypt"
+    },
+    "support.crypt.update": {
+        "class": "App\\Client\\Support\\Crypt\\Update\\UpdateClient",
+        "model": "crypt"
+    },
+    "user.password.get": {
+        "class": "App\\Client\\User\\Password\\Get\\GetClient",
+        "model": "userPassword"
+    },
+    "user.password.create": {
+        "class": "App\\Client\\User\\Password\\Create\\CreateClient",
+        "model": "userPassword"
+    },
+    "user.password.update": {
+        "class": "App\\Client\\User\\Password\\Update\\UpdateClient",
+        "model": "userPassword"
+    },
+    "support.dummy.get": {
+        "class": "App\\Client\\Support\\Dummy\\Get\\GetClient",
+        "model": "dummy"
+    },
+    "support.dummy.create": {
+        "class": "App\\Client\\Support\\Dummy\\Create\\CreateClient",
+        "model": "dummy"
+    },
+    "support.dummy.update": {
+        "class": "App\\Client\\Support\\Dummy\\Update\\UpdateClient",
+        "model": "dummy"
+    }
+}
